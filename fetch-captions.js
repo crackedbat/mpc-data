@@ -2,7 +2,10 @@ const fs = require('fs');
 const https = require('https');
 
 // Array of story IDs you want to fetch
-const storyIds = [56631]; // Add more IDs as needed
+const storyIds = [
+  56631,
+  49229
+]; // Add more IDs as needed
 
 async function fetchStoryCaptions(storyId) {
   return new Promise((resolve, reject) => {
