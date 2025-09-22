@@ -1,0 +1,10 @@
+{
+  "name": "mpc-data",
+  "version": "1",
+  "description": "updates pageCaptions.json with supported stories (see fetch-captions.json) and builds final timeline",
+  "main": "fetch-captions.js",
+  "scripts": {
+    "fetch": "node fetch-captions.js"
+  },
+  "dependencies": {}
+}
