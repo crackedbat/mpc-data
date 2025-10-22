@@ -728,7 +728,12 @@
     "726": "Abby: High-five DRAUGAR OF SIX-FINGERED JORIK BJORNSSON.",
     "727": "Abby: Perform a completely unnecessary backflip before engaging in your escapade. ",
     "728": "===>",
-    "729": "===>"
+    "729": "===>",
+    "730": "===>",
+    "731": "===>",
+    "732": "===>",
+    "733": "===>",
+    "734": "===>"
   },
   "56631": {
     "1": "AUTOPRAXIS",
@@ -2076,6 +2081,10 @@
     "1343": "Gene: Fetch carved totem.",
     "1344": "Gene: Deploy carved totem.",
     "1345": "*ahem* Gene: Deploy carved totem.",
-    "1346": "Gene: Be Wren."
+    "1346": "Gene: Be Wren.",
+    "1347": "Wren: Stew.",
+    "1348": "===>",
+    "1349": "===>",
+    "1350": "===>"
   }
 }
