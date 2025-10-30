@@ -741,7 +741,10 @@
     "739": "===>",
     "740": "===>",
     "741": "MSPFA Reader: Skip tutorial.",
-    "742": "Abby: Give the machine a spin."
+    "742": "Abby: Give the machine a spin.",
+    "743": "Abby: Combine hoodie with another hoodie.",
+    "744": "Abby: Combine toasty comfortwear with video rental ad.",
+    "745": "Abby: Combine phone and braces."
   },
   "56631": {
     "1": "AUTOPRAXIS",
@@ -2120,6 +2123,11 @@
     "1374": "===>",
     "1375": "Jess: Get a move on.",
     "1376": "Jess: Check back in with Wren.",
-    "1377": "===>"
+    "1377": "===>",
+    "1378": "===>",
+    "1379": "===>",
+    "1380": "===>",
+    "1381": "===>",
+    "1382": "===>"
   }
 }
