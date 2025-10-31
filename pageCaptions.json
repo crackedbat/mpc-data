@@ -744,7 +744,11 @@
     "742": "Abby: Give the machine a spin.",
     "743": "Abby: Combine hoodie with another hoodie.",
     "744": "Abby: Combine toasty comfortwear with video rental ad.",
-    "745": "Abby: Combine phone and braces."
+    "745": "Abby: Combine phone and braces.",
+    "746": "===>",
+    "747": "Abby: && phone and braces instead.",
+    "748": "Abby: Combine dental tools and scythe.",
+    "749": "Abby: Combine sausage links and laughing gas."
   },
   "56631": {
     "1": "AUTOPRAXIS",
@@ -2128,6 +2132,10 @@
     "1379": "===>",
     "1380": "===>",
     "1381": "===>",
-    "1382": "===>"
+    "1382": "===>",
+    "1383": "Josh: Boot up your computer and check on your friends.",
+    "1384": "===>",
+    "1385": "===>",
+    "1386": "===>"
   }
 }
