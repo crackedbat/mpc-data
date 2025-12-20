@@ -777,7 +777,14 @@
     "775": "===>",
     "776": "===>",
     "777": "===>",
-    "778": "===>"
+    "778": "===>",
+    "779": "===>",
+    "780": "===>",
+    "781": "===>",
+    "782": "===>",
+    "783": "Zach: Deliver Mum their presents in a cool and nonchalant manner.",
+    "784": "===>",
+    "785": "===>"
   },
   "56631": {
     "1": "AUTOPRAXIS",
@@ -2245,6 +2252,11 @@
     "1463": "Adam: Wait, was somebody talking just now?",
     "1464": "Adam: Ask the voice if they can talk a little louder.",
     "1465": "Adam: Move away from the machine so you can hear them better.",
-    "1466": "===>"
+    "1466": "===>",
+    "1467": "Adam: Inquire as to who this strange character you are conversing with is.",
+    "1468": "Adam: Ask for more details.",
+    "1469": "===>",
+    "1470": "Adam: See if he can use his senses to guide you around the room.",
+    "1471": "Adam: Captchalogue gear."
   }
 }
