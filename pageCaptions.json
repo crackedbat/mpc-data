@@ -791,7 +791,8 @@
     "789": "===>",
     "790": "===>",
     "791": "===>",
-    "792": "===>"
+    "792": "===>",
+    "793": "===>"
   },
   "56631": {
     "1": "AUTOPRAXIS",
@@ -2269,6 +2270,18 @@
     "1473": "???: Examine room.",
     "1474": "???: Tell the human to investigate the crates.",
     "1475": "Adam: Inspect crates.",
-    "1476": "===>"
+    "1476": "===>",
+    "1477": "???: Direct human friend to enormous lever.",
+    "1478": "Adam: Walk north-by-northeast.",
+    "1479": "===>",
+    "1480": "Adam: Push lever.",
+    "1481": "===>",
+    "1482": "===>",
+    "1483": "===>",
+    "1484": "Adam: Examine the apparatus.",
+    "1485": "Adam: Ask about the queen.",
+    "1486": "Adam: Describe apparatus.",
+    "1487": "===>",
+    "1488": "Adam: Feel walls for sconces."
   }
 }
