@@ -2000,7 +2000,7 @@
     "1139": "Gene: Proceed.",
     "1140": "Gene: Perform final checks.",
     "1141": "[S] Gene: Enter tavern.",
-    "1142": "Enough of this kid’s feelings already, be someone more important.",
+    "1142": "Enough of this kid���s feelings already, be someone more important.",
     "1143": "===>",
     "1144": "JB: Run for governor.",
     "1145": "JB: Reflect on how Robert doesn’t start with B.",
@@ -2405,6 +2405,10 @@
     "1544": "===>",
     "1545": "Jess: Look out window.",
     "1546": "===>",
-    "1547": "===>"
+    "1547": "===>",
+    "1548": "Wren: Head back upstairs.",
+    "1549": "===>",
+    "1550": "Wren: Assess the damage.",
+    "1551": "Wren: Return to your room."
   }
 }
